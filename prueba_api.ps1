@@ -1,4 +1,5 @@
-﻿Get-Item -Path c:\temp\
+#comment added to master
+ Get-Item -Path c:\temp\
 
 Copy-Item -Path c:\temp -Confirm -Destination c:\temp\test
 
